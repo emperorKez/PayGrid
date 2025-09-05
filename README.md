@@ -1,7 +1,5 @@
 # PayGrid
 
-# 🧑‍💼 UserGrid
-
 **PayGrid** is a lightweight, FastAPI-powered **payment microservice** designed to manage transactions, invoicing, gateway integrations, and real-time status tracking — all through a clean, RESTful API. It supports multiple payment gateways including Paystack, Flutterwave, Stripe, and PayPal, making it flexible for diverse payment scenarios. It’s containerized with Docker for secure, scalable deployments in any environment.
 
 ---
